@@ -6,7 +6,7 @@ This pipeline automates the process of generating custom emails using OpenAI's G
 
 - Fast and light weight (around 50 lines of code);
 - Easily scalable to accept JSON input from external interfaces;
-- 
+
 **Setup Instructions**
   
 - Bot Email: create a google email that will have the only objective of sending emails. Once that is done, create a google app password for the email sending messages. Please notice  that the normal password won't work for this pipeline. You are going to need specifically an app password;
